@@ -1,0 +1,7 @@
+C:\Users\SV\Desktop\Tuxi\Tuxi\bin\Debug\Tuxi.exe
+C:\Users\SV\Desktop\Tuxi\Tuxi\bin\Debug\Tuxi.pdb
+C:\Users\SV\Desktop\Tuxi\Tuxi\obj\x86\Debug\Tuxi.Form1.resources
+C:\Users\SV\Desktop\Tuxi\Tuxi\obj\x86\Debug\Tuxi.Properties.Resources.resources
+C:\Users\SV\Desktop\Tuxi\Tuxi\obj\x86\Debug\Tuxi.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\Tuxi\Tuxi\obj\x86\Debug\Tuxi.exe
+C:\Users\SV\Desktop\Tuxi\Tuxi\obj\x86\Debug\Tuxi.pdb
